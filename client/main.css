@@ -1,0 +1,8 @@
+/* CSS declarations go here */
+ul{
+    text-align: justify;
+    padding: 10px 35px;
+    background-color: darkgrey;
+    border: 1px solid;
+    border-radius: 5px;
+}
